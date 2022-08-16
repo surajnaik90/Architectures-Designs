@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T06:30:02.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TzPaDtkmYzZkm0f-VdRV" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T06:32:55.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="afJId4EC5tqKyj12rolU" version="20.2.3" type="github">
   <diagram id="rv_bIfIGctGdZCxkuhKS" name="Page-1">
     <mxGraphModel dx="782" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,13 +11,13 @@
           <mxGeometry x="50" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C2Q-8VVMkYbDdSjRPwy8-12" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="430" width="36" height="40" as="geometry" />
+          <mxGeometry x="142" y="410" width="36" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C2Q-8VVMkYbDdSjRPwy8-14" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
-          <mxGeometry x="176" y="540" width="40" height="40" as="geometry" />
+          <mxGeometry x="230" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C2Q-8VVMkYbDdSjRPwy8-15" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
-          <mxGeometry x="168" y="280" width="64" height="64" as="geometry" />
+          <mxGeometry x="176" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C2Q-8VVMkYbDdSjRPwy8-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.412;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.412;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C2Q-8VVMkYbDdSjRPwy8-1" target="C2Q-8VVMkYbDdSjRPwy8-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
