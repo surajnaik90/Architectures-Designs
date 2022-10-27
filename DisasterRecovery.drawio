@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T13:23:25.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lMukoJ0n_YNpBKRyCoV3" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T13:28:35.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gd9LHC8FiVQyfEHgIFUP" version="20.5.1" type="github">
   <diagram id="wYxCZR2anh_r0sdgWP1-" name="Page-1">
-    <mxGraphModel dx="2222" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2565" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,13 +35,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TaKTOSv6qZX-BPgqEJur-15" value="AWS Global Accelerator&lt;br style=&quot;font-size: 20px;&quot;&gt;http://dct.bpglobal.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="535" width="290" height="85" as="geometry" />
+          <mxGeometry x="-329" y="535" width="290" height="85" as="geometry" />
         </mxCell>
         <mxCell id="TaKTOSv6qZX-BPgqEJur-16" value="AWS Region: Ireland" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="230" y="164" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TaKTOSv6qZX-BPgqEJur-17" value="AWS Region: London" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="235" y="481" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TaKTOSv6qZX-BPgqEJur-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="215" width="260" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
