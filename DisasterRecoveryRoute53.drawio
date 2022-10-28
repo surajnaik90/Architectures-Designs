@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T11:32:41.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xW29RADEuJNxB9RE2shl" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T11:46:05.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FBb4omrksWd70jpcVjJ8" version="20.5.1" type="github">
   <diagram id="gPNRDXiM7bIUu6Y5zwWl" name="Page-1">
-    <mxGraphModel dx="1213" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="QKkspK9GR69PJJiekyRh-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="619" y="521" width="40" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="QKkspK9GR69PJJiekyRh-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AWS Route 53&lt;br style=&quot;font-size: 14px;&quot;&gt;(Failover Routing)&lt;br style=&quot;font-size: 14px;&quot;&gt;http://dct.bpglobal.com/&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="QKkspK9GR69PJJiekyRh-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AWS Route 53&lt;br style=&quot;font-size: 14px;&quot;&gt;(Failover Routing)&lt;br style=&quot;font-size: 14px;&quot;&gt;http://www.example.com/&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="227" y="479" width="300" height="86" as="geometry" />
         </mxCell>
         <mxCell id="QKkspK9GR69PJJiekyRh-15" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;AWS Region: Primary&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
