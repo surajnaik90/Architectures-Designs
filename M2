@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T17:01:52.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="tBQW8Q2Ci0H8y5xknlpj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T17:18:04.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="Zj3H8wQRo2XtVaW5mr2y" type="github">
   <diagram id="dLqn1fj5yLdECBuRYvw9" name="Page-1">
     <mxGraphModel dx="993" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,12 +15,6 @@
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-3" value="Azure&amp;nbsp; DevOps Build Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="154" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C-wWYHeGdeWI47EuPI1x-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="117" as="targetPoint" />
-            <mxPoint x="461.9999999999998" y="117" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
           <mxGeometry x="399" y="92" width="50" height="50" as="geometry" />
@@ -44,16 +38,10 @@
           <mxGeometry x="317" y="344" width="58.51" height="64" as="geometry" />
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
-          <mxGeometry x="638" y="467" width="37.18" height="60" as="geometry" />
+          <mxGeometry x="648.53" y="497" width="22.93" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="C-wWYHeGdeWI47EuPI1x-14" value="Service Ontario Subscription&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-14" value="MTO Subscription&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="588" y="547" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C-wWYHeGdeWI47EuPI1x-15" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" vertex="1" parent="1">
-          <mxGeometry x="633.6" y="342" width="40.5" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="C-wWYHeGdeWI47EuPI1x-16" value="Azure App Insights" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="402" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-17" value="Azure DevOps (Boards)&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="553" width="150" height="30" as="geometry" />
@@ -101,22 +89,34 @@
           <mxGeometry x="257" y="50" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-29" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="625.5" y="220" width="65" height="65" as="geometry" />
+          <mxGeometry x="627" y="280" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-30" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="1">
-          <mxGeometry x="620" y="93" width="64" height="64" as="geometry" />
+          <mxGeometry x="620" y="180" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="C-wWYHeGdeWI47EuPI1x-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="260" as="sourcePoint" />
+            <mxPoint x="569" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-35" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Traffic_Manager_Profiles.svg;" vertex="1" parent="1">
+          <mxGeometry x="627" y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-39" value="Azure Traffic Manager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="142" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="260" as="sourcePoint" />
             <mxPoint x="430" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-wWYHeGdeWI47EuPI1x-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="260" as="sourcePoint" />
-            <mxPoint x="600" y="260" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-42" value="API Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="244" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-43" value="Azure Spring Apps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="344" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
