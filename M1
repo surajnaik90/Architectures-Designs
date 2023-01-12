@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T15:39:59.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="Smbj3RSOhmbvmox8g6xR" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T15:50:20.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="kOT343srdTVjH-3P8ihz" type="github">
   <diagram id="JA5JTS4gCTgeQBnW0f-K" name="Page-1">
     <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,27 +44,27 @@
           <mxGeometry x="380" y="344" width="58.51" height="64" as="geometry" />
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_website;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="90" width="50" height="50" as="geometry" />
+          <mxGeometry x="693" y="90" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FO92wVLYk1ojT7wEpweL-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="654.5714285714287" y="330" as="targetPoint" />
+            <mxPoint x="717.5714285714287" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-13" value="Azure App Service (Angular)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="158" width="110" height="30" as="geometry" />
+          <mxGeometry x="663" y="158" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
-          <mxGeometry x="740" y="190" width="37.18" height="60" as="geometry" />
+          <mxGeometry x="701" y="467" width="37.18" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-15" value="Service Ontario Subscription&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="270" width="140" height="20" as="geometry" />
+          <mxGeometry x="651" y="547" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" vertex="1" parent="1">
-          <mxGeometry x="635" y="344" width="37.71" height="54" as="geometry" />
+          <mxGeometry x="696.6" y="342" width="40.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-17" value="Azure App Insights" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="402" width="150" height="30" as="geometry" />
+          <mxGeometry x="648" y="402" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-19" value="Azure DevOps (Boards)&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="338" y="553" width="150" height="30" as="geometry" />
@@ -107,6 +107,15 @@
             <mxPoint x="412.5" y="491" as="sourcePoint" />
             <mxPoint x="413" y="434" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FO92wVLYk1ojT7wEpweL-44" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="623.25" y="70" width="199.5" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="FO92wVLYk1ojT7wEpweL-45" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="72.25" y="50" width="777.75" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="FO92wVLYk1ojT7wEpweL-46" value="Client Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
