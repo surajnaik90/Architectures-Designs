@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T14:27:28.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="U2ylmY3G5CrGYqgtPAfx" type="github"><diagram id="fFf3Afomoa97mxHnAKif">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-12T14:37:55.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="yYcXoPeCBK5MZjK6O-pG" type="github">
+  <diagram id="JA5JTS4gCTgeQBnW0f-K" name="Page-1">
+    <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FO92wVLYk1ojT7wEpweL-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+          <mxGeometry x="304" y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FO92wVLYk1ojT7wEpweL-6" value="Azure&amp;nbsp; DevOps Build Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FO92wVLYk1ojT7wEpweL-7" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+          <mxGeometry x="448" y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FO92wVLYk1ojT7wEpweL-8" value="Azure&amp;nbsp; DevOps Release Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
