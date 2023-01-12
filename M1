@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T14:37:55.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="yYcXoPeCBK5MZjK6O-pG" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T14:38:42.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="J_tOWHTuWk1MFQ3Sodsz" type="github">
   <diagram id="JA5JTS4gCTgeQBnW0f-K" name="Page-1">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,12 @@
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-8" value="Azure&amp;nbsp; DevOps Release Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="424" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FO92wVLYk1ojT7wEpweL-9" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="93" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FO92wVLYk1ojT7wEpweL-10" value="Azure Repos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="162" width="77" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
