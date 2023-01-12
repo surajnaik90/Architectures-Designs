@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T17:18:04.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="Zj3H8wQRo2XtVaW5mr2y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T17:24:21.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="zkWUz6FePjHsi-WLCSX0" type="github">
   <diagram id="dLqn1fj5yLdECBuRYvw9" name="Page-1">
-    <mxGraphModel dx="993" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,7 +116,25 @@
           <mxGeometry x="575" y="244" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-43" value="Azure Spring Apps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="344" width="110" height="30" as="geometry" />
+          <mxGeometry x="600" y="330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652.1818181818184" y="166.99999999999997" as="sourcePoint" />
+            <mxPoint x="651.7454545454547" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652.1818181818184" y="267" as="sourcePoint" />
+            <mxPoint x="651.7454545454547" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-49" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="590" y="388" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C-wWYHeGdeWI47EuPI1x-50" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="669.5" y="384" width="40.5" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
