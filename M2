@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T14:39:43.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wGlQtwMajffTSjO1gRth" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T14:41:57.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ip8p79viDU9bJh7ymO0Y" version="20.8.5" type="github">
   <diagram id="dLqn1fj5yLdECBuRYvw9" name="Page-1">
-    <mxGraphModel dx="1323" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
           <mxGeometry x="661" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-50" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" parent="1" vertex="1">
-          <mxGeometry x="693" y="341" width="40.5" height="58" as="geometry" />
+          <mxGeometry x="729" y="341" width="40.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-59" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -125,10 +125,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-61" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="565.5" y="60" width="227" height="389" as="geometry" />
+          <mxGeometry x="562.99" y="58" width="240.01" height="402" as="geometry" />
         </mxCell>
         <mxCell id="C-wWYHeGdeWI47EuPI1x-62" value="App Insights" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="677" y="403" width="73" height="30" as="geometry" />
+          <mxGeometry x="709" y="403" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Rd_ZfQ1lM-ViV5hWoHh-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;" parent="1" vertex="1">
           <mxGeometry x="573" y="223" width="56.85" height="51" as="geometry" />
@@ -144,6 +144,12 @@
         </mxCell>
         <mxCell id="gBYrJqoD2MgRqFDmI2eJ-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="690" y="223" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gBYrJqoD2MgRqFDmI2eJ-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="640" y="345" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="gBYrJqoD2MgRqFDmI2eJ-3" value="Azure Monitor&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="617" y="404" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
