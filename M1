@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T13:56:30.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9t3JOEp8eu9QvP635RHC" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T13:57:16.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SUzKL0SwbjF47tyY2OlA" version="20.8.5" type="github">
   <diagram id="JA5JTS4gCTgeQBnW0f-K" name="Page-1">
     <mxGraphModel dx="1323" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-44" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="562.5899999999999" y="63" width="221" height="390" as="geometry" />
+          <mxGeometry x="562.5899999999999" y="53" width="221" height="390" as="geometry" />
         </mxCell>
         <mxCell id="FO92wVLYk1ojT7wEpweL-46" value="Client Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="257" y="50" width="240" height="30" as="geometry" />
@@ -129,10 +129,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8EKQdY_EiM7zdywn71w-1" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="571" y="191" width="206" height="104" as="geometry" />
+          <mxGeometry x="571" y="187" width="206" height="104" as="geometry" />
         </mxCell>
         <mxCell id="B8EKQdY_EiM7zdywn71w-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="691" y="186" width="65" height="60" as="geometry" />
+          <mxGeometry x="691" y="192" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B8EKQdY_EiM7zdywn71w-3" value="API Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="673.59" y="255" width="110" height="30" as="geometry" />
