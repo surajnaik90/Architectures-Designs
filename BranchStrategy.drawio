@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-15T11:22:08.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="IZorVlT0c0dwy4W8XW4K" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-15T11:24:47.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="ZIO2sbmddoGOOxZP6AMW" type="github">
   <diagram id="cRRqv47HqloywP55wqdQ" name="Page-1">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,13 +13,18 @@
         <mxCell id="FpPCtnjyutJpVuYdoOeV-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FpPCtnjyutJpVuYdoOeV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="FpPCtnjyutJpVuYdoOeV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FpPCtnjyutJpVuYdoOeV-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FpPCtnjyutJpVuYdoOeV-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.725;entryY=1.008;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="FpPCtnjyutJpVuYdoOeV-1" target="FpPCtnjyutJpVuYdoOeV-2">
+        <mxCell id="FpPCtnjyutJpVuYdoOeV-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.725;entryY=1.008;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="270" as="sourcePoint" />
-            <mxPoint x="430" y="220" as="targetPoint" />
+            <mxPoint x="275" y="314" as="sourcePoint" />
+            <mxPoint x="178" y="194.64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FpPCtnjyutJpVuYdoOeV-6" value="feature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -36,6 +41,15 @@
         </mxCell>
         <mxCell id="FpPCtnjyutJpVuYdoOeV-10" value="Pull Requests / Azure Build Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="270" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FpPCtnjyutJpVuYdoOeV-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="681" y="121" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FpPCtnjyutJpVuYdoOeV-12" value="release" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="691" y="146" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FpPCtnjyutJpVuYdoOeV-14" value="Azure Release Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="115" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
