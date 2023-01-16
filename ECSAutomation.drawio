@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T07:46:42.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="oiLZntZv0PrKqJFWvVcs" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T07:48:03.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="FGHWBZNdg7_hc93hVeeT" type="github">
   <diagram id="AKAh3AhW-xtnxH5p3SFI" name="Page-1">
     <mxGraphModel dx="1134" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,6 +80,12 @@
         </mxCell>
         <mxCell id="gdQwSKqtDF6BhRBJf8Mt-23" value="EC2 - Linux" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="255" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdQwSKqtDF6BhRBJf8Mt-25" value="Teams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdQwSKqtDF6BhRBJf8Mt-26" value="Engineer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17.430000000000007" y="550" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
