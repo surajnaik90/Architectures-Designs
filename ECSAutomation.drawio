@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T07:52:35.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="IMIPDzeTsZDADBRgSM50" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T07:53:15.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="0QyOAPZ7CTFeR7h50LYV" type="github">
   <diagram id="AKAh3AhW-xtnxH5p3SFI" name="Page-1">
     <mxGraphModel dx="1134" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
           <mxGeometry x="665" y="480" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gdQwSKqtDF6BhRBJf8Mt-21" value="Elastic Container Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="550" width="180" height="30" as="geometry" />
+          <mxGeometry x="610" y="540" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdQwSKqtDF6BhRBJf8Mt-22" value="Elastic Container Registry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="390" width="180" height="30" as="geometry" />
