@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:14:20.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="x2irqtKRgel9F-ujrLvA" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T14:16:25.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HH1tOF8lxJbnkS9Nfroj" version="20.8.15" type="github">
   <diagram name="Page-1" id="d19-jBFcHIrSLnqHWP5x">
     <mxGraphModel dx="936" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,20 +60,14 @@
         <mxCell id="FavbgJtfy0NIzKYWdvmE-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="220" y="300" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" parent="1" vertex="1">
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="220" y="340" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" parent="1" vertex="1">
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="220" y="380" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" parent="1" vertex="1">
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="220" y="420" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" parent="1" vertex="1">
-          <mxGeometry x="220" y="460" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="220" y="500" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-24" value="Impact/Risk Assessment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="252" y="177" width="60" height="30" as="geometry" />
@@ -87,20 +81,14 @@
         <mxCell id="FavbgJtfy0NIzKYWdvmE-27" value="Test Protocol created" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="243" y="295" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-28" value="FS Drafted" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-28" value="Test Suite finalized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="244" y="335" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-29" value="Runbook Drafted" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="239" y="375" width="74" height="30" as="geometry" />
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-29" value="Test cases finalized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="244" y="375" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-30" value="Test Protocol Drafted" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="244" y="420" width="74" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-31" value="Test Cases Created - LW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="244" y="455" width="74" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-32" value="Test Cases Created - TIMS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="246" y="495" width="84" height="30" as="geometry" />
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-30" value="Execute regression suite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="239" y="420" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-33" value="Impact/Risk Assessment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="252" y="177" width="60" height="30" as="geometry" />
@@ -111,7 +99,7 @@
         <mxCell id="FavbgJtfy0NIzKYWdvmE-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="220" y="260" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" parent="1" vertex="1">
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="220" y="300" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-40" value="TC Executed (ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
