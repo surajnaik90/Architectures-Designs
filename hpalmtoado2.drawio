@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:07:42.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wjycLg1lEn1b3RWiOORd" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T14:10:56.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cA2vv_T1VIgakcwSknXa" version="20.8.15" type="github">
   <diagram name="Page-1" id="d19-jBFcHIrSLnqHWP5x">
-    <mxGraphModel dx="1101" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="780" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,35 +183,11 @@
         <mxCell id="FavbgJtfy0NIzKYWdvmE-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="353" y="422" width="20" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-72" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF8000;" parent="1" vertex="1">
-          <mxGeometry x="650" y="177" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-73" value="pIV approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="678" y="172" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-74" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="651" y="221" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-75" value="Runbook approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="671" y="217" width="121" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-76" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF8000;" parent="1" vertex="1">
-          <mxGeometry x="651" y="268" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-77" value="pCIL approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="672.5" y="262" width="91" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-78" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF8000;" parent="1" vertex="1">
-          <mxGeometry x="652" y="307" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-79" value="pPV approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="673.5" y="301" width="91" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-80" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="654" y="348" width="20" height="20" as="geometry" />
+          <mxGeometry x="634" y="180" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-81" value="Verification Report Ready for Use approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="678" y="344" width="141" height="30" as="geometry" />
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-81" value="Test Report Ready for Use approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="649" y="178" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="454" y="570" width="20" height="16" as="geometry" />
@@ -242,6 +218,9 @@
         </mxCell>
         <mxCell id="9aKg02Du34RwJ0zvKtXv-4" value="Pending" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="122" y="564" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9aKg02Du34RwJ0zvKtXv-5" value="A: Automation, M: Manual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="582" y="563" width="202" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
