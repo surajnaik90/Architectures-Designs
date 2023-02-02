@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:20:43.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8VBokY1nMLUnkOrSyy5o" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T14:21:03.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="iw-q__3C7uKn1oI8MVrW" version="20.8.15" type="github">
   <diagram name="Page-1" id="d19-jBFcHIrSLnqHWP5x">
     <mxGraphModel dx="1101" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,8 +123,8 @@
         <mxCell id="FavbgJtfy0NIzKYWdvmE-58" value="Req approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="379" y="338" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-59" value="TRM approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="375" width="74" height="30" as="geometry" />
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-59" value="TRM approved (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="375" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-60" value="Test Protocol approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="379" y="423" width="74" height="30" as="geometry" />
