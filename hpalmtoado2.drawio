@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:29:01.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Lj1R9uch5Cyz0yYlIeoV" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T14:29:44.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lyoC78DuOkYK9HN8vJUa" version="20.8.15" type="github">
   <diagram name="Page-1" id="d19-jBFcHIrSLnqHWP5x">
     <mxGraphModel dx="936" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
           <mxGeometry x="220" y="300" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-40" value="TC Executed (ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="529" y="175" width="74" height="30" as="geometry" />
+          <mxGeometry x="529" y="176" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-43" value="VerificationReport Ready for PROD approved(MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="522" y="272" width="113" height="27" as="geometry" />
@@ -129,11 +129,11 @@
         <mxCell id="FavbgJtfy0NIzKYWdvmE-60" value="Test Protocol approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="379" y="423" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-61" value="TC executed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="378" y="174" width="72" height="30" as="geometry" />
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-61" value="TC executed (ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="383" y="177" width="72" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-62" value="Execute regression test suite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="378" y="215" width="84" height="30" as="geometry" />
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-62" value="Execute regression test suite(ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="215" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-63" value="CHG&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="373" y="255" width="84" height="30" as="geometry" />
