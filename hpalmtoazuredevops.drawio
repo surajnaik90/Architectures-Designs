@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T05:42:16.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Nj80kjxqts1YkPe4zoA8" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T05:48:59.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0Vh82Bl3taVHvRHU3h2z" version="20.8.14" type="github">
   <diagram name="Page-1" id="ExTGUEEQHUEDQQg5NHdS">
-    <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="985" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,8 +172,8 @@
         <mxCell id="xStRLfgzvjahY0ka18I4-54" value="Test Cases Created - TIMS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="521" y="487" width="84" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xStRLfgzvjahY0ka18I4-55" value="Impact/Risk Assessment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="527" y="169" width="60" height="30" as="geometry" />
+        <mxCell id="xStRLfgzvjahY0ka18I4-55" value="IV approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="527" y="169" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xStRLfgzvjahY0ka18I4-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="495" y="172" width="20" height="20" as="geometry" />
