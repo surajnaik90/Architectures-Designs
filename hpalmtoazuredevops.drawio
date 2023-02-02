@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T05:54:25.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="NXTk0RrBWeZdidOu5OeN" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T06:03:52.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RJNIXc6kCk3Bt-2rzGmg" version="20.8.14" type="github">
   <diagram name="Page-1" id="ExTGUEEQHUEDQQg5NHdS">
     <mxGraphModel dx="985" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,9 +115,6 @@
         <mxCell id="xStRLfgzvjahY0ka18I4-20" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="654" y="341" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xStRLfgzvjahY0ka18I4-21" value="Verfication Report approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="675.5" y="335" width="94.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xStRLfgzvjahY0ka18I4-24" value="Impact/Risk Assessment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="252" y="177" width="60" height="30" as="geometry" />
         </mxCell>
@@ -152,7 +149,7 @@
           <mxGeometry x="495" y="452" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xStRLfgzvjahY0ka18I4-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="495" y="492" width="20" height="20" as="geometry" />
+          <mxGeometry x="495" y="499" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xStRLfgzvjahY0ka18I4-50" value="OV Executed and approed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="327" width="74" height="30" as="geometry" />
@@ -160,14 +157,14 @@
         <mxCell id="xStRLfgzvjahY0ka18I4-51" value="PV executed and approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="514" y="367" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xStRLfgzvjahY0ka18I4-52" value="Test Protocol Drafted" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xStRLfgzvjahY0ka18I4-52" value="TRM approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="412" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xStRLfgzvjahY0ka18I4-53" value="Test Cases Created - LW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="519" y="447" width="74" height="30" as="geometry" />
+        <mxCell id="xStRLfgzvjahY0ka18I4-53" value="VerificationReport Ready for PROD approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="519" y="451" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xStRLfgzvjahY0ka18I4-54" value="Test Cases Created - TIMS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="521" y="487" width="84" height="30" as="geometry" />
+        <mxCell id="xStRLfgzvjahY0ka18I4-54" value="Protocol approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="521" y="494" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xStRLfgzvjahY0ka18I4-55" value="IV approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="522" y="167" width="73" height="30" as="geometry" />
@@ -191,7 +188,7 @@
           <mxGeometry x="522" y="287" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xStRLfgzvjahY0ka18I4-81" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="346" y="170" width="110" height="348" as="geometry" />
+          <mxGeometry x="350" y="180" width="110" height="348" as="geometry" />
         </mxCell>
         <mxCell id="xStRLfgzvjahY0ka18I4-63" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="xStRLfgzvjahY0ka18I4-81">
           <mxGeometry y="163" width="20" height="20" as="geometry" />
@@ -252,6 +249,9 @@
         </mxCell>
         <mxCell id="xStRLfgzvjahY0ka18I4-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="495" y="333" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="xStRLfgzvjahY0ka18I4-85" value="Verification Report Ready for Use approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="678" y="337" width="141" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
