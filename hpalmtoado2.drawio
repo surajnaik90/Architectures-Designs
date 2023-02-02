@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:52:08.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="d5pa5-_gmCRhdD6E0aSU" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T14:52:57.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="FqqynNgmQ8wSpi5t7jPd" version="20.8.15" type="github">
   <diagram name="Page-1" id="d19-jBFcHIrSLnqHWP5x">
-    <mxGraphModel dx="2187" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1951" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
         <mxCell id="FavbgJtfy0NIzKYWdvmE-29" value="Test cases finalized (LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="244" y="375" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-30" value="Execute regression suite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-30" value="Execute regression suite (ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="239" y="420" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" parent="1" vertex="1">
