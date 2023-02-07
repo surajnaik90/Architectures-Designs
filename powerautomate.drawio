@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T10:59:46.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-n-w0ovGztDJ1qU4Cmlu" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T13:37:52.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SpKtzHit9gHEjJ0E7whH" version="20.8.17" type="github">
   <diagram name="Page-1" id="p6gYxSVcAoh7GOFqSfuz">
     <mxGraphModel dx="934" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,18 @@
             <mxPoint x="240" y="320" as="sourcePoint" />
             <mxPoint x="390" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="45ThTg6IiLnNjAhNWhUz-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="324.41" as="sourcePoint" />
+            <mxPoint x="669.9999999999998" y="324.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="45ThTg6IiLnNjAhNWhUz-11" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+          <mxGeometry x="710" y="300" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45ThTg6IiLnNjAhNWhUz-12" value="Build pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
