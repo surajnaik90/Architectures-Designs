@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T08:26:35.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2vpaCHIUCVdzKfuY_lKD" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T08:27:19.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="h2Qp_GXEvFyL1izkiYvm" version="20.8.17" type="github">
   <diagram name="Page-1" id="d19-jBFcHIrSLnqHWP5x">
     <mxGraphModel dx="1630" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,48 +66,6 @@
         <mxCell id="FavbgJtfy0NIzKYWdvmE-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="502" y="327" width="20" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-58" value="Req approved (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="379" y="338" width="86" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-59" value="TRM approved (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="380" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-60" value="Test Protocol approved (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="379" y="423" width="91" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-61" value="TC executed (ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="383" y="177" width="72" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-62" value="Execute regression test suite(ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="215" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-63" value="CHG (ServiceNow)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="378" y="255" width="84" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-64" value="CR approved (novoGlow)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="371" y="298" width="97" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-65" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="354" y="181" width="20" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-66" value="A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="354" y="222" width="20" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" parent="1" vertex="1">
-          <mxGeometry x="354" y="262" width="20" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;" parent="1" vertex="1">
-          <mxGeometry x="354" y="302" width="20" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-69" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="353" y="342" width="20" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;" parent="1" vertex="1">
-          <mxGeometry x="353" y="380" width="20" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="FavbgJtfy0NIzKYWdvmE-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="353" y="422" width="20" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-80" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="634" y="180" width="20" height="20" as="geometry" />
         </mxCell>
@@ -146,12 +104,6 @@
         </mxCell>
         <mxCell id="9aKg02Du34RwJ0zvKtXv-5" value="A: Automation, M: Manual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="582" y="523" width="202" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9aKg02Du34RwJ0zvKtXv-6" value="Test plan/Test suites approved (ADO)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="467" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9aKg02Du34RwJ0zvKtXv-7" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="354" y="471" width="20" height="16" as="geometry" />
         </mxCell>
         <mxCell id="9aKg02Du34RwJ0zvKtXv-15" value="M" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="-127" y="225" width="20" height="20" as="geometry" />
@@ -230,6 +182,57 @@
         </mxCell>
         <mxCell id="FavbgJtfy0NIzKYWdvmE-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF00;" parent="EaY1m0tRtucJy6dcKxQ--9" vertex="1">
           <mxGeometry y="123" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EaY1m0tRtucJy6dcKxQ--12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="336" y="174" width="137" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-58" value="Req approved (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="26" y="161" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-59" value="TRM approved (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="27" y="203" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-60" value="Test Protocol approved (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="26" y="246" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-61" value="TC executed (ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="30" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-62" value="Execute regression test suite(ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="27" y="38" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-63" value="CHG (ServiceNow)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="25" y="78" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-64" value="CR approved (novoGlow)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="18" y="121" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-65" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="1" y="4" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-66" value="A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="1" y="45" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="1" y="85" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="1" y="125" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-69" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry y="165" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry y="203" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="FavbgJtfy0NIzKYWdvmE-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry y="245" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="9aKg02Du34RwJ0zvKtXv-6" value="Test plan/Test suites approved (ADO)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="27" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9aKg02Du34RwJ0zvKtXv-7" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="EaY1m0tRtucJy6dcKxQ--12" vertex="1">
+          <mxGeometry x="1" y="294" width="20" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
