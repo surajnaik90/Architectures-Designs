@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T13:37:52.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SpKtzHit9gHEjJ0E7whH" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T13:38:04.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="W0Ofqm8EZmnfmNoGX01D" version="20.8.17" type="github">
   <diagram name="Page-1" id="p6gYxSVcAoh7GOFqSfuz">
     <mxGraphModel dx="934" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="710" y="300" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="45ThTg6IiLnNjAhNWhUz-12" value="Build pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="705" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="687.5" y="360" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
