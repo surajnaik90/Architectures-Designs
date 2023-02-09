@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T11:28:55.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lwN5181dL5gNWaB0UbP5" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T11:30:01.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="c2jqHfrjDRpEKZbuAnwa" version="20.8.18" type="github">
   <diagram name="Page-1" id="p6gYxSVcAoh7GOFqSfuz">
-    <mxGraphModel dx="1323" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,9 +82,6 @@
         <mxCell id="iZ3yDexl_o7XQbrObsBM-26" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="561.8" y="456" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iZ3yDexl_o7XQbrObsBM-31" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Boards.svg;" parent="1" vertex="1">
-          <mxGeometry x="41" y="301" width="49" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="iZ3yDexl_o7XQbrObsBM-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="118" y="325.16" as="sourcePoint" />
@@ -94,8 +91,8 @@
         <mxCell id="iZ3yDexl_o7XQbrObsBM-34" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="126.15" y="258" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iZ3yDexl_o7XQbrObsBM-36" value="Test Plan is complete" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="350" width="120" height="30" as="geometry" />
+        <mxCell id="iZ3yDexl_o7XQbrObsBM-36" value="Test Plan&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="22.5" y="350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iZ3yDexl_o7XQbrObsBM-37" value="Azure Boards" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="403" y="526" width="120" height="30" as="geometry" />
@@ -128,6 +125,9 @@
         </mxCell>
         <mxCell id="Ebmc-VcEYs3Wesn4mwOp-8" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880.5" y="301" width="59.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="Ebmc-VcEYs3Wesn4mwOp-12" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Test_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="296" width="45" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
