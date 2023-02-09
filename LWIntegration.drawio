@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T07:41:22.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Yb8P5eyBCj1-WF-Ijzyt" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T07:44:08.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9D_87PxAdiW31yLcsiJz" version="20.8.18" type="github">
   <diagram name="Page-1" id="LBDUJhAL_wEpD_DX8DDx">
     <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,8 +53,8 @@
         <mxCell id="dqTLDmxxTB7_BDo2sfhm-18" value="Test cases are developed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="650" width="97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dqTLDmxxTB7_BDo2sfhm-19" value="Pushed to Repos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="42" y="500" width="97" height="30" as="geometry" />
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-19" value="Pushed to &lt;br&gt;Repos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="500" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dqTLDmxxTB7_BDo2sfhm-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -117,6 +117,24 @@
         </mxCell>
         <mxCell id="dqTLDmxxTB7_BDo2sfhm-41" value="Release Pipeline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="563" y="609" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-42" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="23" y="647" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-45" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="23" y="500" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-46" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="775" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-47" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-48" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="476" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-49" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="475" y="607.62" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
