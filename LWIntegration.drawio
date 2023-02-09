@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T03:55:24.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.10" etag="O-9jC7X829LUFn0Vt_B3" type="github"><diagram name="Page-1" id="LBDUJhAL_wEpD_DX8DDx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-09T05:34:39.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LVzaqRIxHi_jpaprt_wn" version="20.8.10" type="github">
+  <diagram name="Page-1" id="LBDUJhAL_wEpD_DX8DDx">
+    <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vmE8PdOeaqmfukp82N_6-1" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Test_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="140.70999999999998" y="380" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE8PdOeaqmfukp82N_6-2" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Boards.svg;" vertex="1" parent="1">
+          <mxGeometry x="353" y="580" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE8PdOeaqmfukp82N_6-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="525" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE8PdOeaqmfukp82N_6-4" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE8PdOeaqmfukp82N_6-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="590" width="45.71" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE8PdOeaqmfukp82N_6-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="576" as="sourcePoint" />
+            <mxPoint x="160" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vmE8PdOeaqmfukp82N_6-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="400" as="sourcePoint" />
+            <mxPoint x="540" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
