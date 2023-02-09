@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T12:54:36.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qW4bXKB8uKaFCHYPP_GM" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T12:56:27.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xRhMzuawj0Kgt4wsYTEX" version="20.8.18" type="github">
   <diagram name="Page-1" id="p6gYxSVcAoh7GOFqSfuz">
     <mxGraphModel dx="993" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="463" y="71" width="30.66" height="33.53" as="geometry" />
         </mxCell>
         <mxCell id="iZ3yDexl_o7XQbrObsBM-21" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="748" y="258" width="30" height="30" as="geometry" />
+          <mxGeometry x="769" y="258" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iZ3yDexl_o7XQbrObsBM-24" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="840" y="390" width="30" height="30" as="geometry" />
@@ -121,6 +121,12 @@
         </mxCell>
         <mxCell id="Ebmc-VcEYs3Wesn4mwOp-33" value="Adaptive card or email is sent for approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="402" y="271" width="120" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="Ebmc-VcEYs3Wesn4mwOp-34" value="Approver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="773.27" y="264.5" width="120" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="Ebmc-VcEYs3Wesn4mwOp-35" value="Status updated in Boards" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="396.5" width="59.5" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
