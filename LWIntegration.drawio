@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T07:51:27.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sJIh832Ei73gjxqYQ46J" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T07:53:02.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="TNjDxoKvlI36OBZePQCA" version="20.8.18" type="github">
   <diagram name="Page-1" id="LBDUJhAL_wEpD_DX8DDx">
     <mxGraphModel dx="1134" dy="214" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,11 +11,6 @@
         </mxCell>
         <mxCell id="vmE8PdOeaqmfukp82N_6-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" parent="1" vertex="1">
           <mxGeometry x="120" y="400" width="45" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dqTLDmxxTB7_BDo2sfhm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vmE8PdOeaqmfukp82N_6-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="605" y="540" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vmE8PdOeaqmfukp82N_6-4" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
           <mxGeometry x="580" y="400" width="50" height="50" as="geometry" />
@@ -92,7 +87,7 @@
           <mxGeometry x="460" y="579" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dqTLDmxxTB7_BDo2sfhm-33" value="CI Pipeline generates test binaries" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="480" width="120" height="30" as="geometry" />
+          <mxGeometry x="481" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dqTLDmxxTB7_BDo2sfhm-34" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="485.25" width="120" height="204.75" as="geometry" />
@@ -128,7 +123,7 @@
           <mxGeometry x="270" y="500" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dqTLDmxxTB7_BDo2sfhm-48" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="440" y="476" width="30" height="30" as="geometry" />
+          <mxGeometry x="442" y="497" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dqTLDmxxTB7_BDo2sfhm-49" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="475" y="607.62" width="30" height="30" as="geometry" />
@@ -159,6 +154,17 @@
         </mxCell>
         <mxCell id="dqTLDmxxTB7_BDo2sfhm-59" value="Modern Requirements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="582.49" y="762" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-60" value="Azure Repos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105.09" y="446" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dqTLDmxxTB7_BDo2sfhm-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="616.9999999999998" y="525.0476335797991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dqTLDmxxTB7_BDo2sfhm-61" value="Build Pipeline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="567" y="450" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
