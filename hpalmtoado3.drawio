@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T14:59:10.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oeOFcNfg3VTGBgXNCb1g" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:02:30.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_gKy4JhsvB3eg4VCxjR6" version="20.8.20" type="github">
   <diagram name="Page-1" id="ER8tIIyysnPyL9fk-AmR">
-    <mxGraphModel dx="1644" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,17 +51,8 @@
         <mxCell id="MDNkvH54Dq_xONUf3aXB-15" value="Informal Smoke test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="694" y="179" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-17" value="In Scope" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="523" width="86" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-18" value="Clarifications needed / Pending KTs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="523" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-19" value="Out of Scope" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="523" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-20" value="A: Automation, M: Manual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="149" y="570" width="202" height="30" as="geometry" />
+          <mxGeometry x="433" y="620" width="202" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-21" value="Impact/Risk Assessment drafted" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-105" y="182" width="116" height="30" as="geometry" />
@@ -216,20 +207,32 @@
         <mxCell id="MDNkvH54Dq_xONUf3aXB-71" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="-128" y="184" width="20" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="299" y="530" width="20" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="403" y="530" width="20" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="177" y="530" width="20" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-80" value="Installation Verification Report - Release for Use approved(MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="228" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-81" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="679" y="231" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-89" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="465" y="580" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-18" value="Clarifications needed / Pending KTs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MDNkvH54Dq_xONUf3aXB-89">
+          <mxGeometry x="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;" vertex="1" parent="MDNkvH54Dq_xONUf3aXB-89">
+          <mxGeometry y="7" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-85" value="Out of Scope" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MDNkvH54Dq_xONUf3aXB-89">
+          <mxGeometry x="23" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-86" value="In Scope" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MDNkvH54Dq_xONUf3aXB-89">
+          <mxGeometry x="142" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-87" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="MDNkvH54Dq_xONUf3aXB-89">
+          <mxGeometry x="122" y="7" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="MDNkvH54Dq_xONUf3aXB-89">
+          <mxGeometry x="226" y="7" width="20" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
