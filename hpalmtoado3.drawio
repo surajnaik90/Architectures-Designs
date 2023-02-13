@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:15:43.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9poX0zJOIjHPUKvuxisy" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:19:55.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FIdKd01d1QRzQEhGe6Qn" version="20.8.20" type="github">
   <diagram name="Page-1" id="ER8tIIyysnPyL9fk-AmR">
-    <mxGraphModel dx="1686" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,9 +58,9 @@
           <mxGeometry x="-105" y="182" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-22" value="Req drafted(MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-104" y="221" width="84" height="30" as="geometry" />
+          <mxGeometry x="-104" y="217" width="84" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-23" value="Test Cases designed (LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-23" value="Test Cases design initiated (LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-107" y="261" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-24" value="Trace drafted (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -204,7 +204,7 @@
         <mxCell id="MDNkvH54Dq_xONUf3aXB-70" value="A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="680" y="184" width="20" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-71" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="-128" y="184" width="20" height="16" as="geometry" />
         </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-80" value="Installation Verification Report - Release for Use approved(MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
