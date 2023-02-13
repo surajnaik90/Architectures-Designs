@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:13:27.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NmtJGLFniGt1QH7GcHFI" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:15:43.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9poX0zJOIjHPUKvuxisy" version="20.8.20" type="github">
   <diagram name="Page-1" id="ER8tIIyysnPyL9fk-AmR">
     <mxGraphModel dx="1686" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,11 +75,11 @@
         <mxCell id="MDNkvH54Dq_xONUf3aXB-27" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Feature/User Story&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="95" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-28" value="Impact/Risk Assessment (QD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-28" value="TCs executed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="214" y="180" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-29" value="Req finalized(MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="213" y="219" width="84" height="30" as="geometry" />
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-29" value="Execute regression test suite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="222" width="107" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-30" value="TRM Finalized (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="211" y="259" width="89" height="30" as="geometry" />
