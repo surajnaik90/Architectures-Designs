@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:26:14.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mZQjMd2Qt8axbuJOEi68" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:27:06.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QA5ZwwWbGZcMmmTswB8O" version="20.8.20" type="github">
   <diagram name="Page-1" id="ER8tIIyysnPyL9fk-AmR">
     <mxGraphModel dx="1540" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,13 +78,13 @@
         <mxCell id="MDNkvH54Dq_xONUf3aXB-28" value="Req finalized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="214" y="180" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-29" value="Test plan / suites / TCs finalized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-29" value="Test plan / suites / TCs finalized&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="222" width="107" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-30" value="Execute regression test suite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-30" value="Execute regression test suite (ADO/LW)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="211" y="259" width="119" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-31" value="Req reviewed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-31" value="Req reviewed (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="217" y="294" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-32" value="Trace links reviewed (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -150,10 +150,10 @@
         <mxCell id="MDNkvH54Dq_xONUf3aXB-52" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="189" y="225" width="20" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-53" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-53" value="A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="189" y="260.5" width="20" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-54" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-54" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="189" y="301" width="20" height="16" as="geometry" />
         </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-55" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
