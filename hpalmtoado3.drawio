@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:20:35.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qv-UcZrOBJ2e0Qg6a5mZ" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:21:17.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LP6bL2m57SsBchnFI4sW" version="20.8.20" type="github">
   <diagram name="Page-1" id="ER8tIIyysnPyL9fk-AmR">
-    <mxGraphModel dx="1417" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1540" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,7 +78,7 @@
         <mxCell id="MDNkvH54Dq_xONUf3aXB-28" value="Req finalized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="214" y="180" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDNkvH54Dq_xONUf3aXB-29" value="Execute regression test suite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MDNkvH54Dq_xONUf3aXB-29" value="Test plan / suites / TCs finalized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="222" width="107" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MDNkvH54Dq_xONUf3aXB-30" value="TRM Finalized (MR)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
