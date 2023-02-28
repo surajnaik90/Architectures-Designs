@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T15:06:31.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WUwmZTlt47UKw_8u0y1N" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T15:09:43.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FfsvViTAM_lmX6iz8toH" version="20.8.20" type="github">
   <diagram name="Page-1" id="kBt9bErPF2uWes7MKhG4">
     <mxGraphModel dx="1644" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,9 +47,9 @@
           <mxGeometry x="364.99" y="288" width="36.57" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nZfVPGNK5ss3Tm6Llg2C-35" value="Test/Validation Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="346.12" y="326" width="100" height="30" as="geometry" />
+          <mxGeometry x="342.12" y="326" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nZfVPGNK5ss3Tm6Llg2C-37" value="Azure Boards" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="nZfVPGNK5ss3Tm6Llg2C-37" value="ADO - Boards" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="136.28" y="220" width="123.72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nZfVPGNK5ss3Tm6Llg2C-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
@@ -73,8 +73,8 @@
         <mxCell id="nZfVPGNK5ss3Tm6Llg2C-45" value="Test Automation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="500.00000000000006" y="322" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="nZfVPGNK5ss3Tm6Llg2C-47" value="Test Planning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="306.26" y="450" width="150" height="34" as="geometry" />
+        <mxCell id="nZfVPGNK5ss3Tm6Llg2C-47" value="ADO - Test Plans" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="306.26" y="448" width="150" height="34" as="geometry" />
         </mxCell>
         <mxCell id="nZfVPGNK5ss3Tm6Llg2C-48" value="Power Automate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="320.40999999999997" y="216.5" width="125.71" height="17" as="geometry" />
@@ -100,9 +100,9 @@
         <mxCell id="nZfVPGNK5ss3Tm6Llg2C-56" value="Azure Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="484.50000000000006" y="210" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="nZfVPGNK5ss3Tm6Llg2C-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.339;exitY=1.144;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nZfVPGNK5ss3Tm6Llg2C-35">
+        <mxCell id="nZfVPGNK5ss3Tm6Llg2C-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="435" y="322.5" as="sourcePoint" />
+            <mxPoint x="380" y="360" as="sourcePoint" />
             <mxPoint x="380" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
