@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T15:26:34.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5zlWscLNympJXSgG2lZj" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T15:28:08.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EaVoAhN0MTtgNjkmFKSo" version="20.8.20" type="github">
   <diagram name="Page-1" id="kBt9bErPF2uWes7MKhG4">
     <mxGraphModel dx="1644" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,6 +145,9 @@
             <mxPoint x="560" y="440" as="sourcePoint" />
             <mxPoint x="560" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nZfVPGNK5ss3Tm6Llg2C-78" value="Test Plan - Leapwork Mapping" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="422" y="400" width="145.71" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
