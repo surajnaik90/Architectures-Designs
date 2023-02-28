@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T15:15:06.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iWuXVT9za6ctAzSKICqc" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T15:18:07.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8spNhzZmUkGUmuzlsszF" version="20.8.20" type="github">
   <diagram name="Page-1" id="kBt9bErPF2uWes7MKhG4">
     <mxGraphModel dx="1644" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,6 +127,12 @@
         </mxCell>
         <mxCell id="nZfVPGNK5ss3Tm6Llg2C-63" value="Automated Validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="424.28999999999996" y="166" width="125.71" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="nZfVPGNK5ss3Tm6Llg2C-64" value="Test Design - Plans, Suites, Test Cases" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="381.24" y="370" width="145.71" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZfVPGNK5ss3Tm6Llg2C-65" value="Test Implementation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="401.56" y="286" width="145.71" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
