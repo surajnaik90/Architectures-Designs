@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T11:21:19.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-RPzZm0eXXrRMf93UYXL" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T11:22:49.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bQgDu40sBemDnKnvCywe" version="21.0.6" type="github">
   <diagram name="Page-1" id="iLXE7qJpNlTu7vJXo9RO">
     <mxGraphModel dx="794" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,12 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Q-Ne__ZAbIWqN_Yhm5Dn-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Requirement - User Story is Created in ADO&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-Ne__ZAbIWqN_Yhm5Dn-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-Ne__ZAbIWqN_Yhm5Dn-3" value="Manual MR User Story (Requirement) Review" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
