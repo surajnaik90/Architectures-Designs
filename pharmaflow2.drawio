@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T11:58:41.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dbQ-l5FKQhzj13Bi2lt6" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T12:16:16.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="v3a6ul61A2scA2jij28m" version="21.3.8" type="github">
   <diagram name="Page-1" id="kBt9bErPF2uWes7MKhG4">
-    <mxGraphModel dx="1469" dy="656" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,8 +160,8 @@
         <mxCell id="hWjZmzIf7-0EfaZp71g5-9" value="Run Automated Tests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="590.92" y="166" width="125.71" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="hWjZmzIf7-0EfaZp71g5-12" value="Automated status updates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="225" y="199.5" width="125.71" height="17" as="geometry" />
+        <mxCell id="hWjZmzIf7-0EfaZp71g5-12" value="Automated gating criteria validation / status updates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="229" y="196.5" width="125.71" height="17" as="geometry" />
         </mxCell>
         <mxCell id="hWjZmzIf7-0EfaZp71g5-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -169,7 +169,7 @@
             <mxPoint x="344" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWjZmzIf7-0EfaZp71g5-17" value="Automated status updates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="hWjZmzIf7-0EfaZp71g5-17" value="Process Validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="229.28" y="166" width="125.71" height="17" as="geometry" />
         </mxCell>
         <mxCell id="hWjZmzIf7-0EfaZp71g5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
