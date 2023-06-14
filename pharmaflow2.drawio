@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T12:48:10.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dpbyse8gs6Rxss5GMwbr" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T12:48:32.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DNJe1ULUj4MG4Gh-7FcD" version="21.3.8" type="github">
   <diagram name="Page-1" id="kBt9bErPF2uWes7MKhG4">
     <mxGraphModel dx="1438" dy="424" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,10 +158,10 @@
           <mxGeometry x="498.89" y="365" width="145.71" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hWjZmzIf7-0EfaZp71g5-26" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
-          <mxGeometry x="760" y="385" width="36.57" height="40" as="geometry" />
+          <mxGeometry x="760" y="385" width="33.83" height="37" as="geometry" />
         </mxCell>
         <mxCell id="hWjZmzIf7-0EfaZp71g5-28" value="Veeva Team/Stakeholders" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="715" y="419" width="127.71" height="37" as="geometry" />
+          <mxGeometry x="715" y="417" width="127.71" height="37" as="geometry" />
         </mxCell>
         <mxCell id="hWjZmzIf7-0EfaZp71g5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
