@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T07:49:13.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DAvilBIsOnlMnhN2WgCc" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T07:50:10.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rNAt9SItfyyn3SujZr0J" version="21.4.0" type="github">
   <diagram name="Page-1" id="fdDCDqan2yeG-D9SpDSB">
     <mxGraphModel dx="1646" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           <mxGeometry x="603.92" y="188" width="125.71" height="17" as="geometry" />
         </mxCell>
         <mxCell id="onQOSqK_UBpHkJca3PKx-26" value="Automated Process Validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="239" y="167" width="168" height="17" as="geometry" />
+          <mxGeometry x="223" y="167" width="168" height="17" as="geometry" />
         </mxCell>
         <mxCell id="onQOSqK_UBpHkJca3PKx-27" value="ADO Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="493.05" y="373" width="145.71" height="20" as="geometry" />
@@ -152,7 +152,7 @@
         </mxCell>
         <mxCell id="onQOSqK_UBpHkJca3PKx-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="254" y="189" as="sourcePoint" />
+            <mxPoint x="225" y="189" as="sourcePoint" />
             <mxPoint x="376" y="232" as="targetPoint" />
             <Array as="points">
               <mxPoint x="376" y="191" />
