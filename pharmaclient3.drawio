@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T07:27:54.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vVIoLE_t2i4eaa6_OfoK" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T07:27:58.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NPOqnFUxCN8EU3Io4pry" version="21.4.0" type="github">
   <diagram name="Page-1" id="fdDCDqan2yeG-D9SpDSB">
     <mxGraphModel dx="1884" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,9 +62,6 @@
         </mxCell>
         <mxCell id="onQOSqK_UBpHkJca3PKx-16" value="Test Automation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="712.71" y="231" width="160" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="onQOSqK_UBpHkJca3PKx-17" value="Power Automate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="594.92" y="500" width="125.71" height="17" as="geometry" />
         </mxCell>
         <mxCell id="onQOSqK_UBpHkJca3PKx-18" value="Trace Analysis,&lt;br&gt;&amp;nbsp;Reporting, Baselining" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="103" y="253" width="170.93" height="41.5" as="geometry" />
