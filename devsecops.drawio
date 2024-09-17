@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-09-17T09:23:04.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="6DcUaZC32BS0PYMqo0QG" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-17T09:29:22.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="vE5pxTNTIzte3jDsjjOp" version="24.4.13" type="github">
   <diagram name="Page-1" id="VWCOT1s2UIXs_mF2nwTO">
-    <mxGraphModel dx="934" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,20 +148,33 @@
             <mxRectangle width="108" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LeMREfr2Gr5GjN9Xj37d-50" value="Build" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
-          <mxGeometry x="510" y="80" width="110" height="60" as="geometry" />
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LeMREfr2Gr5GjN9Xj37d-50" target="LeMREfr2Gr5GjN9Xj37d-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LeMREfr2Gr5GjN9Xj37d-51" value="Code Analysis" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
-          <mxGeometry x="510" y="165" width="110" height="60" as="geometry" />
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-50" value="Deploy to Dev/Sandbox environment" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="550" y="75" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-51" value="Deploy to TEST - QA/UAT environment" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="550" y="165" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-52" value="Unit Tests" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
-          <mxGeometry x="510" y="240" width="110" height="60" as="geometry" />
+          <mxGeometry x="720" y="225" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-53" value="Application Code Vulnerability Scans (SAST)" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
-          <mxGeometry x="510" y="320" width="110" height="60" as="geometry" />
+          <mxGeometry x="760" y="340" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-54" value="Build artifacts" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LeMREfr2Gr5GjN9Xj37d-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="364.53" as="sourcePoint" />
+            <mxPoint x="550" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="360" />
+              <mxPoint x="500" y="110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
