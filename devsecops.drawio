@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-09-17T06:02:34.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.4.13" etag="A36Rn8h-1uKDDU1tcSpp" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-17T06:13:14.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="wdH3zJ60_6d7SkfSLCGW" version="24.4.13" type="github">
   <diagram name="Page-1" id="VWCOT1s2UIXs_mF2nwTO">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-1" value="Product Owner creates features/user stories" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-3" value="Product Owner creates features/user stories" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
