@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-17T06:52:48.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="FjH1n0wJQFkO0Ar2dHYc" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-17T06:53:27.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="1xC2WBxU45QylCVtYvhZ" version="24.4.13" type="github">
   <diagram name="Page-1" id="VWCOT1s2UIXs_mF2nwTO">
     <mxGraphModel dx="662" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LeMREfr2Gr5GjN9Xj37d-18" target="LeMREfr2Gr5GjN9Xj37d-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LeMREfr2Gr5GjN9Xj37d-18" value="Build &amp;amp; Unit Testing" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-18" value="Build" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Triggers a CICD Pipeline&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LeMREfr2Gr5GjN9Xj37d-22" target="LeMREfr2Gr5GjN9Xj37d-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LeMREfr2Gr5GjN9Xj37d-22" value="Application Code Vulnerability Scans (SAST)" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-22" value="Code Analysis" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-26" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -73,7 +73,7 @@
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LeMREfr2Gr5GjN9Xj37d-27" target="LeMREfr2Gr5GjN9Xj37d-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LeMREfr2Gr5GjN9Xj37d-27" value="Application Code Vulnerability Scans (SAST)" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-27" value="Unit Tests" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-29" value="Application Code Vulnerability Scans (SAST)" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
