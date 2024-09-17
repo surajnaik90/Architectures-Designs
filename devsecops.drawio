@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-09-17T06:35:49.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="znKeCVehNs-ntMYQD2Y3" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-17T06:37:44.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="jjj0T7t4X4EjufCNg5RE" version="24.4.13" type="github">
   <diagram name="Page-1" id="VWCOT1s2UIXs_mF2nwTO">
-    <mxGraphModel dx="662" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LeMREfr2Gr5GjN9Xj37d-1" target="LeMREfr2Gr5GjN9Xj37d-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-1" value="Product Owner creates features/user stories" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-6" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="55" y="90" width="60" height="64" as="geometry" />
@@ -16,8 +19,11 @@
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-5" value="JIRA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LeMREfr2Gr5GjN9Xj37d-6">
           <mxGeometry y="34" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LeMREfr2Gr5GjN9Xj37d-7" value="Developer commits code" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="120" height="80" as="geometry" />
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-7" value="Developer works on stories and commits code" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMREfr2Gr5GjN9Xj37d-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Lead assigns stories to developer/s&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
