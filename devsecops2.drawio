@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="VWCOT1s2UIXs_mF2nwTO">
-    <mxGraphModel dx="980" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1680" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,7 +184,7 @@
           <mxGeometry x="509.9999999999999" y="421" width="25.85" height="28" as="geometry" />
         </mxCell>
         <mxCell id="w_TqBhbx0RFDqAtav5lx-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Atlassian dashboards-&amp;nbsp; DevSecOps Metrics&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="244.5" y="493" width="317.5" height="30" as="geometry" />
+          <mxGeometry x="208" y="423.25" width="317.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w_TqBhbx0RFDqAtav5lx-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="866" y="374" width="281" height="108" as="geometry" />
