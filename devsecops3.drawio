@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="VWCOT1s2UIXs_mF2nwTO">
-    <mxGraphModel dx="1461" dy="1041" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1218" dy="934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
           <mxGeometry x="436.40000000000003" y="296" width="64.17" height="15" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-80" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Continuous Delivery&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="601" y="11" width="170" height="30" as="geometry" />
+          <mxGeometry x="601" y="12" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-81" value="Approval Flow / Deployment" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" parent="1" vertex="1">
           <mxGeometry x="652.92" y="348" width="140" height="40" as="geometry" />
