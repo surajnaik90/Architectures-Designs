@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="VWCOT1s2UIXs_mF2nwTO">
-    <mxGraphModel dx="1461" dy="1041" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LeMREfr2Gr5GjN9Xj37d-51" target="LeMREfr2Gr5GjN9Xj37d-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQiNEegy2brjbPz1ZQ3I-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeMREfr2Gr5GjN9Xj37d-51" target="LeMREfr2Gr5GjN9Xj37d-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-51" value="Deploy to UAT /Pre-Prod" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" parent="1" vertex="1">
@@ -341,6 +344,9 @@
         </mxCell>
         <mxCell id="lQiNEegy2brjbPz1ZQ3I-61" value="Secrets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="925.91" y="109.41" width="38" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="lQiNEegy2brjbPz1ZQ3I-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.847;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LeMREfr2Gr5GjN9Xj37d-81" target="LeMREfr2Gr5GjN9Xj37d-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
