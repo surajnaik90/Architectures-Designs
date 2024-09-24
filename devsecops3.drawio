@@ -107,7 +107,7 @@
           <mxGeometry x="436.40000000000003" y="296" width="64.17" height="15" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-80" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Continuous Delivery&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="601" y="10" width="170" height="30" as="geometry" />
+          <mxGeometry x="601" y="11" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-81" value="Approval Flow / Deployment" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillStyle=dots;" parent="1" vertex="1">
           <mxGeometry x="652.92" y="348" width="140" height="40" as="geometry" />
