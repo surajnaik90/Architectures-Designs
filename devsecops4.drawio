@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="550KDO-xGlIBh2YwvOV_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="13" y="74.7" width="233.5" height="311" as="geometry" />
+          <mxGeometry x="20" y="77.5" width="225" height="311" as="geometry" />
         </mxCell>
         <mxCell id="LeMREfr2Gr5GjN9Xj37d-125" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="256" y="10" width="568" height="413" as="geometry" />
@@ -361,16 +361,13 @@
           <mxGeometry x="20.001011235955062" y="237.32288135593217" width="120.80898876404494" height="28.627118644067796" as="geometry" />
         </mxCell>
         <mxCell id="550KDO-xGlIBh2YwvOV_-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="71.32" y="313.63" width="56.68000000000001" height="40" as="geometry" />
+          <mxGeometry x="66" y="315" width="72" height="50.8" as="geometry" />
         </mxCell>
         <mxCell id="550KDO-xGlIBh2YwvOV_-10" value="" style="image;html=1;image=img/lib/atlassian/Crucible_Logo.svg;" vertex="1" parent="550KDO-xGlIBh2YwvOV_-9">
-          <mxGeometry x="16.25" width="17.5" height="20" as="geometry" />
+          <mxGeometry x="20.64220183486238" width="22.23006351446718" height="25.399999999999995" as="geometry" />
         </mxCell>
         <mxCell id="550KDO-xGlIBh2YwvOV_-11" value="Crucible" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="550KDO-xGlIBh2YwvOV_-9">
-          <mxGeometry y="20" width="45.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="LeMREfr2Gr5GjN9Xj37d-25" value="Pull Requests" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="550KDO-xGlIBh2YwvOV_-9" vertex="1">
-          <mxGeometry x="-17.319999999999993" y="35" width="74" height="10" as="geometry" />
+          <mxGeometry y="25.399999999999995" width="58.11573747353563" height="12.699999999999998" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
