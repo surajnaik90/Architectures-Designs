@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FcULWKKp87289iwvlf_I-115" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="59" width="487" height="593" as="geometry" />
+          <mxGeometry x="200" y="59" width="452" height="593" as="geometry" />
         </mxCell>
         <mxCell id="FcULWKKp87289iwvlf_I-8" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;" parent="1" vertex="1">
           <mxGeometry x="403.5" y="73" width="51.5" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="330" y="333" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FcULWKKp87289iwvlf_I-98" value="&lt;b&gt;BLUE-GREEN&amp;nbsp; DEPLOYMENT&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360.63" y="29" width="188.37" height="30" as="geometry" />
+          <mxGeometry x="347" y="29" width="188.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FcULWKKp87289iwvlf_I-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -61,11 +61,11 @@
             <mxPoint x="535" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FcULWKKp87289iwvlf_I-113" value="Before switch over" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="258.5" y="243" width="126.5" height="30" as="geometry" />
+        <mxCell id="FcULWKKp87289iwvlf_I-113" value="Before traffic switch-over" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="245" y="240" width="136" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FcULWKKp87289iwvlf_I-114" value="After switch over" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="468.9" y="240" width="126.5" height="30" as="geometry" />
+        <mxCell id="FcULWKKp87289iwvlf_I-114" value="After traffic switch-over" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="469.5" y="237" width="126.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FcULWKKp87289iwvlf_I-4" value="Load balancer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="424.25" y="190" width="126.5" height="30" as="geometry" />
